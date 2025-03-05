@@ -2,7 +2,7 @@
 
 A stealthy server security solution that uses port knocking techniques to protect your servers from unauthorized access while providing legitimate users with seamless access to protected services.
 
-[![License: GPL v3](https://img.shields.io/github/license/ugurakcil/secureknock)](https://github.com/ugurakcil/secureknock/blob/main/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/ugurakcil/secureknock/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ugurakcil/secureknock)](https://github.com/ugurakcil/secureknock/stargazers) 
 
 ## What is the SecureKnock?
