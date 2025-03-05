@@ -2,10 +2,10 @@
 
 A stealthy server security solution that uses port knocking techniques to protect your servers from unauthorized access while providing legitimate users with seamless access to protected services.
 
-[![GitHub license](https://img.shields.io/github/license/ugurakcil/secureknock)](https://github.com/ugurakcil/secureknock/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ugurakcil/secureknock)](https://github.com/ugurakcil/secureknock/stargazers)
+[![License: GPL v3](https://img.shields.io/github/license/ugurakcil/secureknock)](https://github.com/ugurakcil/secureknock/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ugurakcil/secureknock)](https://github.com/ugurakcil/secureknock/stargazers) 
 
-## What the
+## What is the SecureKnock?
 
 SecureKnock is a high-performance, minimal-overhead port knocking implementation that adds an extra layer of security to your servers. By requiring a specific sequence of connection attempts with a secret authentication flag, it keeps your services invisible to port scanners and potential attackers while allowing authorized users easy access. It is for those looking for simple security solutions for medium-sized teamwork who don't want to deal with proxy/VPN tunneling issues.
 
